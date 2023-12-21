@@ -1,0 +1,22 @@
+.menu {
+  background: linear-gradient(#000 0%, #111 80%, #222);
+  padding: 1rem 0;
+}
+
+.menu > ul {
+  max-width: 800px;
+  margin: 0 auto;
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+li {
+  color: #f00;
+  cursor: pointer;
+}
+
+li:hover {
+  color: #e00;
+  /* border-bottom: 1px solid #d00; */
+  text-decoration: underline;
+}

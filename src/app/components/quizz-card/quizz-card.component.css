@@ -1,0 +1,7 @@
+.quizz_card > h2 {
+  margin-bottom: 2rem;
+  background-color: black;
+  color: red;
+  padding: 5px 16px;
+  cursor: pointer;
+}

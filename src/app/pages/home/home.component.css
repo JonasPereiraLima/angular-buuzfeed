@@ -1,0 +1,13 @@
+.container__home {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #130a2c;
+  min-height: 90vh;
+  padding: 4rem 1rem;
+}
+
+.container__home > h1 {
+  color: #ccc;
+  margin-bottom: 4rem;
+  text-align: center;
+}
